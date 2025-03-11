@@ -1,0 +1,1210 @@
+[2025-01-25 15:55:15] [class-ss-archive-creation-job.php:97] Starting a job; no job is presently running
+[2025-01-25 15:55:15] [class-ss-archive-creation-job.php:98] Here's our task list: setup, fetch_urls, generate_404, create_zip_archive, wrapup
+[2025-01-25 15:55:15] [class-ss-archive-creation-job.php:116] Pushing first task to queue: setup
+[2025-01-25 15:55:15] [class-ss-archive-creation-job.php:172] Current task: setup
+[2025-01-25 15:55:15] [class-ss-archive-creation-job.php:182] Performing task: setup
+[2025-01-25 15:55:15] [class-ss-task.php:44] Status message: [setup] Setting up
+[2025-01-25 15:55:15] [class-ss-setup-task.php:33] Creating archive directory: C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515\
+[2025-01-25 15:55:15] [class-ss-setup-task.php:72] Adding origin URL to queue: http://localhost/SERDAL/
+[2025-01-25 15:55:15] [class-ss-setup-task.php:152] Adding files from directory: C:/xampp/htdocs/SERDAL/wp-content/uploads/2025
+[2025-01-25 15:55:15] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads/2025\01\454263804_893534369461648_4257234582045467898_n-1.jpg to queue as: http://localhost/SERDAL/wp-content/uploads/2025/01/454263804_893534369461648_4257234582045467898_n-1.jpg
+[2025-01-25 15:55:15] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads/2025\01\454263804_893534369461648_4257234582045467898_n.jpg to queue as: http://localhost/SERDAL/wp-content/uploads/2025/01/454263804_893534369461648_4257234582045467898_n.jpg
+[2025-01-25 15:55:15] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads/2025\01\463305462_946001237548294_7274795265317955020_n.jpg to queue as: http://localhost/SERDAL/wp-content/uploads/2025/01/463305462_946001237548294_7274795265317955020_n.jpg
+[2025-01-25 15:55:15] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads/2025\01\464928837_957493883065696_8119215143169553238_n.jpg to queue as: http://localhost/SERDAL/wp-content/uploads/2025/01/464928837_957493883065696_8119215143169553238_n.jpg
+[2025-01-25 15:55:15] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads/2025\01\All-Logo-1.png to queue as: http://localhost/SERDAL/wp-content/uploads/2025/01/All-Logo-1.png
+[2025-01-25 15:55:15] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads/2025\01\background-2.png to queue as: http://localhost/SERDAL/wp-content/uploads/2025/01/background-2.png
+[2025-01-25 15:55:15] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads/2025\01\bg2.png to queue as: http://localhost/SERDAL/wp-content/uploads/2025/01/bg2.png
+[2025-01-25 15:55:15] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads/2025\01\CEM.png to queue as: http://localhost/SERDAL/wp-content/uploads/2025/01/CEM.png
+[2025-01-25 15:55:15] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads/2025\01\CLSU.png to queue as: http://localhost/SERDAL/wp-content/uploads/2025/01/CLSU.png
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads/2025\01\DOST.png to queue as: http://localhost/SERDAL/wp-content/uploads/2025/01/DOST.png
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads/2025\01\Logo1-1.png to queue as: http://localhost/SERDAL/wp-content/uploads/2025/01/Logo1-1.png
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads/2025\01\Logo2.png to queue as: http://localhost/SERDAL/wp-content/uploads/2025/01/Logo2.png
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads/2025\01\UPLB.png to queue as: http://localhost/SERDAL/wp-content/uploads/2025/01/UPLB.png
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads/2025\01\USP-USM-VSU.png to queue as: http://localhost/SERDAL/wp-content/uploads/2025/01/USP-USM-VSU.png
+[2025-01-25 15:55:16] [class-ss-setup-task.php:152] Adding files from directory: C:/xampp/htdocs/SERDAL/wp-content/uploads
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads\2025\01\454263804_893534369461648_4257234582045467898_n-1.jpg to queue as: http://localhost/SERDAL/wp-content/uploads/2025/01/454263804_893534369461648_4257234582045467898_n-1.jpg
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads\2025\01\454263804_893534369461648_4257234582045467898_n.jpg to queue as: http://localhost/SERDAL/wp-content/uploads/2025/01/454263804_893534369461648_4257234582045467898_n.jpg
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads\2025\01\463305462_946001237548294_7274795265317955020_n.jpg to queue as: http://localhost/SERDAL/wp-content/uploads/2025/01/463305462_946001237548294_7274795265317955020_n.jpg
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads\2025\01\464928837_957493883065696_8119215143169553238_n.jpg to queue as: http://localhost/SERDAL/wp-content/uploads/2025/01/464928837_957493883065696_8119215143169553238_n.jpg
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads\2025\01\All-Logo-1.png to queue as: http://localhost/SERDAL/wp-content/uploads/2025/01/All-Logo-1.png
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads\2025\01\background-2.png to queue as: http://localhost/SERDAL/wp-content/uploads/2025/01/background-2.png
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads\2025\01\bg2.png to queue as: http://localhost/SERDAL/wp-content/uploads/2025/01/bg2.png
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads\2025\01\CEM.png to queue as: http://localhost/SERDAL/wp-content/uploads/2025/01/CEM.png
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads\2025\01\CLSU.png to queue as: http://localhost/SERDAL/wp-content/uploads/2025/01/CLSU.png
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads\2025\01\DOST.png to queue as: http://localhost/SERDAL/wp-content/uploads/2025/01/DOST.png
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads\2025\01\Logo1-1.png to queue as: http://localhost/SERDAL/wp-content/uploads/2025/01/Logo1-1.png
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads\2025\01\Logo2.png to queue as: http://localhost/SERDAL/wp-content/uploads/2025/01/Logo2.png
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads\2025\01\UPLB.png to queue as: http://localhost/SERDAL/wp-content/uploads/2025/01/UPLB.png
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads\2025\01\USP-USM-VSU.png to queue as: http://localhost/SERDAL/wp-content/uploads/2025/01/USP-USM-VSU.png
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads\bb-plugin\cache\0-layout-draft-partial.css to queue as: http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/0-layout-draft-partial.css
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads\bb-plugin\cache\0-layout-draft-partial.js to queue as: http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/0-layout-draft-partial.js
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads\bb-plugin\cache\0-layout-partial.css to queue as: http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/0-layout-partial.css
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads\bb-plugin\cache\0-layout-partial.js to queue as: http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/0-layout-partial.js
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads\bb-plugin\cache\271-layout-draft-partial.css to queue as: http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/271-layout-draft-partial.css
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads\bb-plugin\cache\271-layout-draft-partial.js to queue as: http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/271-layout-draft-partial.js
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads\bb-plugin\cache\271-layout-draft.css to queue as: http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/271-layout-draft.css
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads\bb-plugin\cache\271-layout-draft.js to queue as: http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/271-layout-draft.js
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads\bb-plugin\cache\271-layout-partial.css to queue as: http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/271-layout-partial.css
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads\bb-plugin\cache\271-layout-partial.js to queue as: http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/271-layout-partial.js
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads\bb-plugin\cache\271-layout.css to queue as: http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/271-layout.css
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads\bb-plugin\cache\271-layout.js to queue as: http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/271-layout.js
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads\bb-plugin\cache\index.html to queue as: http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/index.html
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads\bb-plugin\icons\index.html to queue as: http://localhost/SERDAL/wp-content/uploads/bb-plugin/icons/index.html
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads\bb-plugin\index.html to queue as: http://localhost/SERDAL/wp-content/uploads/bb-plugin/index.html
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads\fonts\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_d0nNTxXUEKi4Rw.woff2 to queue as: http://localhost/SERDAL/wp-content/uploads/fonts/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_d0nNTxXUEKi4Rw.woff2
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads\fonts\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KUnNTxXUEKi4Rw.woff2 to queue as: http://localhost/SERDAL/wp-content/uploads/fonts/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KUnNTxXUEKi4Rw.woff2
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads\fonts\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_TknNTxXUEKi4Rw.woff2 to queue as: http://localhost/SERDAL/wp-content/uploads/fonts/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_TknNTxXUEKi4Rw.woff2
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads\fonts\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ0lCR_VMq2oR82k.woff2 to queue as: http://localhost/SERDAL/wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ0lCR_VMq2oR82k.woff2
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads\fonts\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ0XCR_VMq2oR82k.woff2 to queue as: http://localhost/SERDAL/wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ0XCR_VMq2oR82k.woff2
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads\fonts\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ17CR_VMq2oR82k.woff2 to queue as: http://localhost/SERDAL/wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ17CR_VMq2oR82k.woff2
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads\fonts\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ2lCR_VMq2oR82k.woff2 to queue as: http://localhost/SERDAL/wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ2lCR_VMq2oR82k.woff2
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads\fonts\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ2lDh_VMq2oR82k.woff2 to queue as: http://localhost/SERDAL/wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ2lDh_VMq2oR82k.woff2
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads\fonts\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ37Dh_VMq2oR82k.woff2 to queue as: http://localhost/SERDAL/wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ37Dh_VMq2oR82k.woff2
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads\fonts\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ3CDh_VMq2oR82k.woff2 to queue as: http://localhost/SERDAL/wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ3CDh_VMq2oR82k.woff2
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads\simply-static\ca27d58036b76ba748c9f78aba39f99e-debug.txt to queue as: http://localhost/SERDAL/wp-content/uploads/simply-static/ca27d58036b76ba748c9f78aba39f99e-debug.txt
+[2025-01-25 15:55:16] [class-ss-setup-task.php:157] Adding file C:/xampp/htdocs/SERDAL/wp-content/uploads\simply-static\temp-files\simply-static-1-1737820515\feed\index.html to queue as: http://localhost/SERDAL/wp-content/uploads/simply-static/temp-files/simply-static-1-1737820515/feed/index.html
+[2025-01-25 15:55:16] [class-ss-setup-task.php:143] File C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/feed/index.html exists; adding to queue as: http://localhost/SERDAL/wp-content/uploads/simply-static/temp-files/simply-static-1-1737820515/feed/index.html
+[2025-01-25 15:55:16] [class-ss-archive-creation-job.php:204] We've found our next task: fetch_urls
+[2025-01-25 15:55:16] [class-ss-archive-creation-job.php:172] Current task: fetch_urls
+[2025-01-25 15:55:16] [class-ss-archive-creation-job.php:182] Performing task: fetch_urls
+[2025-01-25 15:55:16] [class-ss-fetch-urls-task.php:69] Total pages: 42; Pages remaining: 42
+[2025-01-25 15:55:16] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/
+[2025-01-25 15:55:16] [class-ss-task.php:58] [PAGES STATUS] Remaining:42; Total: 42
+[2025-01-25 15:55:16] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:16] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/679509642c0db-Z2coA2.tmp
+[2025-01-25 15:55:16] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/?simply_static_page=7477
+[2025-01-25 15:55:16] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/?simply_static_page=7477
+[2025-01-25 15:55:16] [class-ss-url-fetcher.php:103] Filesize: 97692 bytes
+[2025-01-25 15:55:16] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html; charset=UTF-8
+[2025-01-25 15:55:16] [class-ss-url-fetcher.php:233] New filename for static page: /index.html
+[2025-01-25 15:55:16] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/679509642c0db-Z2coA2.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/index.html
+[2025-01-25 15:55:16] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:18] [class-ss-fetch-urls-task.php:158] Adding 53 URLs to the queue
+[2025-01-25 15:55:18] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:18] [class-ss-page.php:119] Checking Content Identical:b5d709800f21b2a02a1817311c3d8d6b34d02616===. Value: FALSE
+[2025-01-25 15:55:18] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/2025/01/454263804_893534369461648_4257234582045467898_n-1.jpg
+[2025-01-25 15:55:18] [class-ss-task.php:58] [PAGES STATUS] Remaining:41; Total: 42
+[2025-01-25 15:55:18] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:18] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/67950966d7fd8-wRjPyI.tmp
+[2025-01-25 15:55:18] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/uploads/2025/01/454263804_893534369461648_4257234582045467898_n-1.jpg?simply_static_page=7478
+[2025-01-25 15:55:18] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/uploads/2025/01/454263804_893534369461648_4257234582045467898_n-1.jpg?simply_static_page=7478
+[2025-01-25 15:55:18] [class-ss-url-fetcher.php:103] Filesize: 154115 bytes
+[2025-01-25 15:55:18] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2025-01-25 15:55:18] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/01/454263804_893534369461648_4257234582045467898_n-1.jpg
+[2025-01-25 15:55:18] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/67950966d7fd8-wRjPyI.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/uploads/2025/01/454263804_893534369461648_4257234582045467898_n-1.jpg
+[2025-01-25 15:55:18] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:18] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:18] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:18] [class-ss-page.php:119] Checking Content Identical:81732a901a6cfd299a1acd780ba4647d566ef6f1===. Value: FALSE
+[2025-01-25 15:55:18] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/2025/01/454263804_893534369461648_4257234582045467898_n.jpg
+[2025-01-25 15:55:18] [class-ss-task.php:58] [PAGES STATUS] Remaining:40; Total: 42
+[2025-01-25 15:55:18] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:18] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/67950966dc57b-c7XJmX.tmp
+[2025-01-25 15:55:18] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/uploads/2025/01/454263804_893534369461648_4257234582045467898_n.jpg?simply_static_page=7479
+[2025-01-25 15:55:18] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/uploads/2025/01/454263804_893534369461648_4257234582045467898_n.jpg?simply_static_page=7479
+[2025-01-25 15:55:18] [class-ss-url-fetcher.php:103] Filesize: 154115 bytes
+[2025-01-25 15:55:18] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2025-01-25 15:55:18] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/01/454263804_893534369461648_4257234582045467898_n.jpg
+[2025-01-25 15:55:18] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/67950966dc57b-c7XJmX.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/uploads/2025/01/454263804_893534369461648_4257234582045467898_n.jpg
+[2025-01-25 15:55:18] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:18] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:18] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:18] [class-ss-page.php:119] Checking Content Identical:81732a901a6cfd299a1acd780ba4647d566ef6f1===. Value: FALSE
+[2025-01-25 15:55:18] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/2025/01/463305462_946001237548294_7274795265317955020_n.jpg
+[2025-01-25 15:55:18] [class-ss-task.php:58] [PAGES STATUS] Remaining:39; Total: 42
+[2025-01-25 15:55:18] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:18] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/67950966e3d9e-susfwl.tmp
+[2025-01-25 15:55:18] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/uploads/2025/01/463305462_946001237548294_7274795265317955020_n.jpg?simply_static_page=7480
+[2025-01-25 15:55:18] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/uploads/2025/01/463305462_946001237548294_7274795265317955020_n.jpg?simply_static_page=7480
+[2025-01-25 15:55:18] [class-ss-url-fetcher.php:103] Filesize: 144371 bytes
+[2025-01-25 15:55:18] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2025-01-25 15:55:18] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/01/463305462_946001237548294_7274795265317955020_n.jpg
+[2025-01-25 15:55:18] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/67950966e3d9e-susfwl.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/uploads/2025/01/463305462_946001237548294_7274795265317955020_n.jpg
+[2025-01-25 15:55:18] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:18] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:18] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:18] [class-ss-page.php:119] Checking Content Identical:7b25b775102923c60c8a63a1186e94e50f3fd501===. Value: FALSE
+[2025-01-25 15:55:18] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/2025/01/464928837_957493883065696_8119215143169553238_n.jpg
+[2025-01-25 15:55:18] [class-ss-task.php:58] [PAGES STATUS] Remaining:38; Total: 42
+[2025-01-25 15:55:18] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:18] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/67950966e8271-BWPqKy.tmp
+[2025-01-25 15:55:18] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/uploads/2025/01/464928837_957493883065696_8119215143169553238_n.jpg?simply_static_page=7481
+[2025-01-25 15:55:18] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/uploads/2025/01/464928837_957493883065696_8119215143169553238_n.jpg?simply_static_page=7481
+[2025-01-25 15:55:18] [class-ss-url-fetcher.php:103] Filesize: 118248 bytes
+[2025-01-25 15:55:18] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2025-01-25 15:55:18] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/01/464928837_957493883065696_8119215143169553238_n.jpg
+[2025-01-25 15:55:18] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/67950966e8271-BWPqKy.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/uploads/2025/01/464928837_957493883065696_8119215143169553238_n.jpg
+[2025-01-25 15:55:18] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:18] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:18] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:18] [class-ss-page.php:119] Checking Content Identical:f20ee90fab45f133e744b80eba69a4d2bd4174df===. Value: FALSE
+[2025-01-25 15:55:18] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/2025/01/All-Logo-1.png
+[2025-01-25 15:55:18] [class-ss-task.php:58] [PAGES STATUS] Remaining:37; Total: 42
+[2025-01-25 15:55:18] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:18] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/67950966ec17c-ZtgaiP.tmp
+[2025-01-25 15:55:18] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/uploads/2025/01/All-Logo-1.png?simply_static_page=7482
+[2025-01-25 15:55:18] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/uploads/2025/01/All-Logo-1.png?simply_static_page=7482
+[2025-01-25 15:55:18] [class-ss-url-fetcher.php:103] Filesize: 58675 bytes
+[2025-01-25 15:55:18] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
+[2025-01-25 15:55:18] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/01/All-Logo-1.png
+[2025-01-25 15:55:18] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/67950966ec17c-ZtgaiP.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/uploads/2025/01/All-Logo-1.png
+[2025-01-25 15:55:18] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:18] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:18] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:18] [class-ss-page.php:119] Checking Content Identical:7801f01e90ebff206fc06ae5c2cd14910f711903===. Value: FALSE
+[2025-01-25 15:55:18] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/2025/01/background-2.png
+[2025-01-25 15:55:18] [class-ss-task.php:58] [PAGES STATUS] Remaining:36; Total: 42
+[2025-01-25 15:55:18] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:18] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/67950966f0424-9tq2l4.tmp
+[2025-01-25 15:55:18] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/uploads/2025/01/background-2.png?simply_static_page=7483
+[2025-01-25 15:55:18] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/uploads/2025/01/background-2.png?simply_static_page=7483
+[2025-01-25 15:55:18] [class-ss-url-fetcher.php:103] Filesize: 145493 bytes
+[2025-01-25 15:55:18] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
+[2025-01-25 15:55:18] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/01/background-2.png
+[2025-01-25 15:55:18] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/67950966f0424-9tq2l4.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/uploads/2025/01/background-2.png
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:19] [class-ss-page.php:119] Checking Content Identical:e3697752cfc97eba8e03929a37c0416631ee0581===. Value: FALSE
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/2025/01/bg2.png
+[2025-01-25 15:55:19] [class-ss-task.php:58] [PAGES STATUS] Remaining:35; Total: 42
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/67950967026e2-uUDESa.tmp
+[2025-01-25 15:55:19] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/uploads/2025/01/bg2.png?simply_static_page=7484
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/uploads/2025/01/bg2.png?simply_static_page=7484
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:103] Filesize: 444527 bytes
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/01/bg2.png
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/67950967026e2-uUDESa.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/uploads/2025/01/bg2.png
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:19] [class-ss-page.php:119] Checking Content Identical:f8cc927d4177ba05214479cfccaf24304a193bf8===. Value: FALSE
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/2025/01/CEM.png
+[2025-01-25 15:55:19] [class-ss-task.php:58] [PAGES STATUS] Remaining:34; Total: 42
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/679509670b126-GKlhF8.tmp
+[2025-01-25 15:55:19] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/uploads/2025/01/CEM.png?simply_static_page=7485
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/uploads/2025/01/CEM.png?simply_static_page=7485
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:103] Filesize: 18583 bytes
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/01/CEM.png
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/679509670b126-GKlhF8.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/uploads/2025/01/CEM.png
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:19] [class-ss-page.php:119] Checking Content Identical:8c2f079153b31b277fd68d8d9c2a6a3ffabfee2a===. Value: FALSE
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/2025/01/CLSU.png
+[2025-01-25 15:55:19] [class-ss-task.php:58] [PAGES STATUS] Remaining:33; Total: 42
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/679509670eb35-fbSvtf.tmp
+[2025-01-25 15:55:19] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/uploads/2025/01/CLSU.png?simply_static_page=7486
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/uploads/2025/01/CLSU.png?simply_static_page=7486
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:103] Filesize: 158944 bytes
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/01/CLSU.png
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/679509670eb35-fbSvtf.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/uploads/2025/01/CLSU.png
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:19] [class-ss-page.php:119] Checking Content Identical:30593f04c9e0a9893d2fd56ed2f128c0bcec3fb3===. Value: FALSE
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/2025/01/DOST.png
+[2025-01-25 15:55:19] [class-ss-task.php:58] [PAGES STATUS] Remaining:32; Total: 42
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/679509671693e-VxdGxN.tmp
+[2025-01-25 15:55:19] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/uploads/2025/01/DOST.png?simply_static_page=7487
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/uploads/2025/01/DOST.png?simply_static_page=7487
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:103] Filesize: 287551 bytes
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/01/DOST.png
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/679509671693e-VxdGxN.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/uploads/2025/01/DOST.png
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:19] [class-ss-page.php:119] Checking Content Identical:743967588a44bdfbe196d954ecee74ceb8630e17===. Value: FALSE
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/2025/01/Logo1-1.png
+[2025-01-25 15:55:19] [class-ss-task.php:58] [PAGES STATUS] Remaining:31; Total: 42
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/679509671b7e4-5KQbEn.tmp
+[2025-01-25 15:55:19] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/uploads/2025/01/Logo1-1.png?simply_static_page=7488
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/uploads/2025/01/Logo1-1.png?simply_static_page=7488
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:103] Filesize: 589510 bytes
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/01/Logo1-1.png
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/679509671b7e4-5KQbEn.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/uploads/2025/01/Logo1-1.png
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:19] [class-ss-page.php:119] Checking Content Identical:1b2f3d95b0e27ebb2296e4589551a26b961d1e5a===. Value: FALSE
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/2025/01/Logo2.png
+[2025-01-25 15:55:19] [class-ss-task.php:58] [PAGES STATUS] Remaining:30; Total: 42
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/6795096723e07-JwUcDu.tmp
+[2025-01-25 15:55:19] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/uploads/2025/01/Logo2.png?simply_static_page=7489
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/uploads/2025/01/Logo2.png?simply_static_page=7489
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:103] Filesize: 311414 bytes
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/01/Logo2.png
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/6795096723e07-JwUcDu.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/uploads/2025/01/Logo2.png
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:19] [class-ss-page.php:119] Checking Content Identical:0ed8f8ff9c1604a17dca0e9049b14b367f8f2234===. Value: FALSE
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/2025/01/UPLB.png
+[2025-01-25 15:55:19] [class-ss-task.php:58] [PAGES STATUS] Remaining:29; Total: 42
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/6795096728833-uHtFOf.tmp
+[2025-01-25 15:55:19] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/uploads/2025/01/UPLB.png?simply_static_page=7490
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/uploads/2025/01/UPLB.png?simply_static_page=7490
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:103] Filesize: 1104900 bytes
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/01/UPLB.png
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/6795096728833-uHtFOf.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/uploads/2025/01/UPLB.png
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:19] [class-ss-page.php:119] Checking Content Identical:49cf4abfa15933891c8f552158f95ea8cf13c990===. Value: FALSE
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/2025/01/USP-USM-VSU.png
+[2025-01-25 15:55:19] [class-ss-task.php:58] [PAGES STATUS] Remaining:28; Total: 42
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/679509672e54f-fX8kOz.tmp
+[2025-01-25 15:55:19] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/uploads/2025/01/USP-USM-VSU.png?simply_static_page=7491
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/uploads/2025/01/USP-USM-VSU.png?simply_static_page=7491
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:103] Filesize: 75956 bytes
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/01/USP-USM-VSU.png
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/679509672e54f-fX8kOz.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/uploads/2025/01/USP-USM-VSU.png
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:19] [class-ss-page.php:119] Checking Content Identical:3b1fb9f9774ec4975bf739e3e6fdd3c725ddb85b===. Value: FALSE
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/0-layout-draft-partial.css
+[2025-01-25 15:55:19] [class-ss-task.php:58] [PAGES STATUS] Remaining:27; Total: 42
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/67950967322b7-EIj92s.tmp
+[2025-01-25 15:55:19] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/0-layout-draft-partial.css?simply_static_page=7492
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/0-layout-draft-partial.css?simply_static_page=7492
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:103] Filesize: 0 bytes
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/bb-plugin/cache/0-layout-draft-partial.css
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/67950967322b7-EIj92s.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/uploads/bb-plugin/cache/0-layout-draft-partial.css
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:19] [class-ss-page.php:119] Checking Content Identical:b858cb282617fb0956d960215c8e84d1ccf909c6===. Value: FALSE
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/0-layout-draft-partial.js
+[2025-01-25 15:55:19] [class-ss-task.php:58] [PAGES STATUS] Remaining:26; Total: 42
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/6795096736686-qRFbmu.tmp
+[2025-01-25 15:55:19] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/0-layout-draft-partial.js?simply_static_page=7493
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/0-layout-draft-partial.js?simply_static_page=7493
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:103] Filesize: 123 bytes
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/bb-plugin/cache/0-layout-draft-partial.js
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/6795096736686-qRFbmu.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/uploads/bb-plugin/cache/0-layout-draft-partial.js
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:19] [class-ss-page.php:119] Checking Content Identical:cca40adf47fe5d178c40af3ba6b8dddb0e43eec4===. Value: FALSE
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/0-layout-partial.css
+[2025-01-25 15:55:19] [class-ss-task.php:58] [PAGES STATUS] Remaining:25; Total: 42
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/679509673ee85-pRiM5G.tmp
+[2025-01-25 15:55:19] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/0-layout-partial.css?simply_static_page=7494
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/0-layout-partial.css?simply_static_page=7494
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:103] Filesize: 0 bytes
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/bb-plugin/cache/0-layout-partial.css
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/679509673ee85-pRiM5G.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/uploads/bb-plugin/cache/0-layout-partial.css
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:19] [class-ss-page.php:119] Checking Content Identical:b858cb282617fb0956d960215c8e84d1ccf909c6===. Value: FALSE
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/0-layout-partial.js
+[2025-01-25 15:55:19] [class-ss-task.php:58] [PAGES STATUS] Remaining:24; Total: 42
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/6795096746842-vDnTYS.tmp
+[2025-01-25 15:55:19] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/0-layout-partial.js?simply_static_page=7495
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/0-layout-partial.js?simply_static_page=7495
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:103] Filesize: 0 bytes
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/bb-plugin/cache/0-layout-partial.js
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/6795096746842-vDnTYS.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/uploads/bb-plugin/cache/0-layout-partial.js
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:19] [class-ss-page.php:119] Checking Content Identical:b858cb282617fb0956d960215c8e84d1ccf909c6===. Value: FALSE
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/271-layout-draft-partial.css
+[2025-01-25 15:55:19] [class-ss-task.php:58] [PAGES STATUS] Remaining:23; Total: 42
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/679509674a803-GLoeL7.tmp
+[2025-01-25 15:55:19] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/271-layout-draft-partial.css?simply_static_page=7496
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/271-layout-draft-partial.css?simply_static_page=7496
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:103] Filesize: 36 bytes
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/bb-plugin/cache/271-layout-draft-partial.css
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/679509674a803-GLoeL7.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/uploads/bb-plugin/cache/271-layout-draft-partial.css
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:19] [class-ss-page.php:119] Checking Content Identical:9592bcc4c6c23dc8d4ad8200803b024c817e537e===. Value: FALSE
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/271-layout-draft-partial.js
+[2025-01-25 15:55:19] [class-ss-task.php:58] [PAGES STATUS] Remaining:22; Total: 42
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/6795096750429-g1PXFH.tmp
+[2025-01-25 15:55:19] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/271-layout-draft-partial.js?simply_static_page=7497
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/271-layout-draft-partial.js?simply_static_page=7497
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:103] Filesize: 123 bytes
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/bb-plugin/cache/271-layout-draft-partial.js
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/6795096750429-g1PXFH.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/uploads/bb-plugin/cache/271-layout-draft-partial.js
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:19] [class-ss-page.php:119] Checking Content Identical:cca40adf47fe5d178c40af3ba6b8dddb0e43eec4===. Value: FALSE
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/271-layout-draft.css
+[2025-01-25 15:55:19] [class-ss-task.php:58] [PAGES STATUS] Remaining:21; Total: 42
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/67950967544a8-FXEerr.tmp
+[2025-01-25 15:55:19] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/271-layout-draft.css?simply_static_page=7498
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/271-layout-draft.css?simply_static_page=7498
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:103] Filesize: 55912 bytes
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/bb-plugin/cache/271-layout-draft.css
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/67950967544a8-FXEerr.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/uploads/bb-plugin/cache/271-layout-draft.css
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:19] [class-ss-page.php:119] Checking Content Identical:52877cf7abd2bc14cbadac0b52e33509c50c51a4===. Value: FALSE
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/271-layout-draft.js
+[2025-01-25 15:55:19] [class-ss-task.php:58] [PAGES STATUS] Remaining:20; Total: 42
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/67950967657ac-rTnfXU.tmp
+[2025-01-25 15:55:19] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/271-layout-draft.js?simply_static_page=7499
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/271-layout-draft.js?simply_static_page=7499
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:103] Filesize: 22611 bytes
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/bb-plugin/cache/271-layout-draft.js
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/67950967657ac-rTnfXU.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/uploads/bb-plugin/cache/271-layout-draft.js
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:19] [class-ss-page.php:119] Checking Content Identical:931d22137b331d50f5da79274bc63b8ead0ef587===. Value: FALSE
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/271-layout-partial.css
+[2025-01-25 15:55:19] [class-ss-task.php:58] [PAGES STATUS] Remaining:19; Total: 42
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/6795096776638-tOaHeL.tmp
+[2025-01-25 15:55:19] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/271-layout-partial.css?simply_static_page=7500
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/271-layout-partial.css?simply_static_page=7500
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:103] Filesize: 0 bytes
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/bb-plugin/cache/271-layout-partial.css
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/6795096776638-tOaHeL.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/uploads/bb-plugin/cache/271-layout-partial.css
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:19] [class-ss-page.php:119] Checking Content Identical:b858cb282617fb0956d960215c8e84d1ccf909c6===. Value: FALSE
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/271-layout-partial.js
+[2025-01-25 15:55:19] [class-ss-task.php:58] [PAGES STATUS] Remaining:18; Total: 42
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/679509677be2c-6qTIeI.tmp
+[2025-01-25 15:55:19] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/271-layout-partial.js?simply_static_page=7501
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/271-layout-partial.js?simply_static_page=7501
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:103] Filesize: 0 bytes
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/bb-plugin/cache/271-layout-partial.js
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/679509677be2c-6qTIeI.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/uploads/bb-plugin/cache/271-layout-partial.js
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:19] [class-ss-page.php:119] Checking Content Identical:b858cb282617fb0956d960215c8e84d1ccf909c6===. Value: FALSE
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/271-layout.css
+[2025-01-25 15:55:19] [class-ss-task.php:58] [PAGES STATUS] Remaining:17; Total: 42
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/6795096782b4c-eIbOKd.tmp
+[2025-01-25 15:55:19] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/271-layout.css?simply_static_page=7502
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/271-layout.css?simply_static_page=7502
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:103] Filesize: 15837 bytes
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/bb-plugin/cache/271-layout.css
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/6795096782b4c-eIbOKd.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/uploads/bb-plugin/cache/271-layout.css
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:19] [class-ss-page.php:119] Checking Content Identical:e83db635686cee9c2a26c1de53305132d8fc8573===. Value: FALSE
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/271-layout.js
+[2025-01-25 15:55:19] [class-ss-task.php:58] [PAGES STATUS] Remaining:16; Total: 42
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/679509678cbe8-06WFwP.tmp
+[2025-01-25 15:55:19] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/271-layout.js?simply_static_page=7503
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/271-layout.js?simply_static_page=7503
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:103] Filesize: 22488 bytes
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/bb-plugin/cache/271-layout.js
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/679509678cbe8-06WFwP.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/uploads/bb-plugin/cache/271-layout.js
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:19] [class-ss-page.php:119] Checking Content Identical:c1a1d9cd60a791f31797ffa2a47a472fd2ff0781===. Value: FALSE
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/index.html
+[2025-01-25 15:55:19] [class-ss-task.php:58] [PAGES STATUS] Remaining:15; Total: 42
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/6795096795f2e-2E74A8.tmp
+[2025-01-25 15:55:19] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/index.html?simply_static_page=7504
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/uploads/bb-plugin/cache/index.html?simply_static_page=7504
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:103] Filesize: 0 bytes
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/bb-plugin/cache/index.html
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/6795096795f2e-2E74A8.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/uploads/bb-plugin/cache/index.html
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:19] [class-ss-page.php:119] Checking Content Identical:b858cb282617fb0956d960215c8e84d1ccf909c6===. Value: FALSE
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/bb-plugin/icons/index.html
+[2025-01-25 15:55:19] [class-ss-task.php:58] [PAGES STATUS] Remaining:14; Total: 42
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/679509679a3ac-uZIXwf.tmp
+[2025-01-25 15:55:19] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/uploads/bb-plugin/icons/index.html?simply_static_page=7505
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/uploads/bb-plugin/icons/index.html?simply_static_page=7505
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:103] Filesize: 0 bytes
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/bb-plugin/icons/index.html
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/679509679a3ac-uZIXwf.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/uploads/bb-plugin/icons/index.html
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:19] [class-ss-page.php:119] Checking Content Identical:b858cb282617fb0956d960215c8e84d1ccf909c6===. Value: FALSE
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/bb-plugin/index.html
+[2025-01-25 15:55:19] [class-ss-task.php:58] [PAGES STATUS] Remaining:13; Total: 42
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/67950967a1cc3-45KjpC.tmp
+[2025-01-25 15:55:19] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/uploads/bb-plugin/index.html?simply_static_page=7506
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/uploads/bb-plugin/index.html?simply_static_page=7506
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:103] Filesize: 0 bytes
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/bb-plugin/index.html
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/67950967a1cc3-45KjpC.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/uploads/bb-plugin/index.html
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:19] [class-ss-page.php:119] Checking Content Identical:b858cb282617fb0956d960215c8e84d1ccf909c6===. Value: FALSE
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/fonts/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_d0nNTxXUEKi4Rw.woff2
+[2025-01-25 15:55:19] [class-ss-task.php:58] [PAGES STATUS] Remaining:12; Total: 42
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/67950967a5de4-DmbDBP.tmp
+[2025-01-25 15:55:19] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/uploads/fonts/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_d0nNTxXUEKi4Rw.woff2?simply_static_page=7507
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/uploads/fonts/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_d0nNTxXUEKi4Rw.woff2?simply_static_page=7507
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:103] Filesize: 30944 bytes
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/woff2
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/fonts/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_d0nNTxXUEKi4Rw.woff2
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/67950967a5de4-DmbDBP.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/uploads/fonts/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_d0nNTxXUEKi4Rw.woff2
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:19] [class-ss-page.php:119] Checking Content Identical:0973925446983d1af7901b4d9616a9c31fc7311f===. Value: FALSE
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/fonts/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KUnNTxXUEKi4Rw.woff2
+[2025-01-25 15:55:19] [class-ss-task.php:58] [PAGES STATUS] Remaining:11; Total: 42
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/67950967ad65a-vFCPek.tmp
+[2025-01-25 15:55:19] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/uploads/fonts/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KUnNTxXUEKi4Rw.woff2?simply_static_page=7508
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/uploads/fonts/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KUnNTxXUEKi4Rw.woff2?simply_static_page=7508
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:103] Filesize: 30204 bytes
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/woff2
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/fonts/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KUnNTxXUEKi4Rw.woff2
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/67950967ad65a-vFCPek.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/uploads/fonts/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KUnNTxXUEKi4Rw.woff2
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:19] [class-ss-page.php:119] Checking Content Identical:987ece89f4939e1fc032d2ee5f4e4067d040187b===. Value: FALSE
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/fonts/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_TknNTxXUEKi4Rw.woff2
+[2025-01-25 15:55:19] [class-ss-task.php:58] [PAGES STATUS] Remaining:10; Total: 42
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/67950967b3aa2-JFxFEa.tmp
+[2025-01-25 15:55:19] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/uploads/fonts/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_TknNTxXUEKi4Rw.woff2?simply_static_page=7509
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/uploads/fonts/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_TknNTxXUEKi4Rw.woff2?simply_static_page=7509
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:103] Filesize: 30988 bytes
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/woff2
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/fonts/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_TknNTxXUEKi4Rw.woff2
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/67950967b3aa2-JFxFEa.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/uploads/fonts/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_TknNTxXUEKi4Rw.woff2
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:19] [class-ss-page.php:119] Checking Content Identical:b84d553db77abb862bb2469822185bb74b96015a===. Value: FALSE
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ0lCR_VMq2oR82k.woff2
+[2025-01-25 15:55:19] [class-ss-task.php:58] [PAGES STATUS] Remaining:9; Total: 42
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/67950967b7aef-nRlUMk.tmp
+[2025-01-25 15:55:19] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ0lCR_VMq2oR82k.woff2?simply_static_page=7510
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ0lCR_VMq2oR82k.woff2?simply_static_page=7510
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:103] Filesize: 31676 bytes
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/woff2
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ0lCR_VMq2oR82k.woff2
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/67950967b7aef-nRlUMk.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ0lCR_VMq2oR82k.woff2
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:19] [class-ss-page.php:119] Checking Content Identical:64e76f23a8f3868abe8051a223db517d224287cb===. Value: FALSE
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ0XCR_VMq2oR82k.woff2
+[2025-01-25 15:55:19] [class-ss-task.php:58] [PAGES STATUS] Remaining:8; Total: 42
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/67950967bed98-MM10L8.tmp
+[2025-01-25 15:55:19] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ0XCR_VMq2oR82k.woff2?simply_static_page=7511
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ0XCR_VMq2oR82k.woff2?simply_static_page=7511
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:103] Filesize: 32884 bytes
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/woff2
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ0XCR_VMq2oR82k.woff2
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/67950967bed98-MM10L8.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ0XCR_VMq2oR82k.woff2
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:19] [class-ss-page.php:119] Checking Content Identical:e0ffc50ebe688499a31d66d926689580452d6858===. Value: FALSE
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ17CR_VMq2oR82k.woff2
+[2025-01-25 15:55:19] [class-ss-task.php:58] [PAGES STATUS] Remaining:7; Total: 42
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/67950967c6b16-42PBX1.tmp
+[2025-01-25 15:55:19] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ17CR_VMq2oR82k.woff2?simply_static_page=7512
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ17CR_VMq2oR82k.woff2?simply_static_page=7512
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:103] Filesize: 32700 bytes
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/woff2
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ17CR_VMq2oR82k.woff2
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/67950967c6b16-42PBX1.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ17CR_VMq2oR82k.woff2
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:19] [class-ss-page.php:119] Checking Content Identical:4cc18834776644d8e129652c6443432c21e42b3b===. Value: FALSE
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ2lCR_VMq2oR82k.woff2
+[2025-01-25 15:55:19] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 42
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/67950967d34f7-rG1xk6.tmp
+[2025-01-25 15:55:19] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ2lCR_VMq2oR82k.woff2?simply_static_page=7513
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ2lCR_VMq2oR82k.woff2?simply_static_page=7513
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:103] Filesize: 31596 bytes
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/woff2
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ2lCR_VMq2oR82k.woff2
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/67950967d34f7-rG1xk6.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ2lCR_VMq2oR82k.woff2
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:19] [class-ss-page.php:119] Checking Content Identical:74a0ecacec2ff605fe4a5e078bf5731ad715579a===. Value: FALSE
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ2lDh_VMq2oR82k.woff2
+[2025-01-25 15:55:19] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 42
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/67950967d7406-RgmRsJ.tmp
+[2025-01-25 15:55:19] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ2lDh_VMq2oR82k.woff2?simply_static_page=7514
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ2lDh_VMq2oR82k.woff2?simply_static_page=7514
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:103] Filesize: 31844 bytes
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/woff2
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ2lDh_VMq2oR82k.woff2
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/67950967d7406-RgmRsJ.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ2lDh_VMq2oR82k.woff2
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:19] [class-ss-page.php:119] Checking Content Identical:00a432956a7ff753cda1d096cefe57130f7a8bd5===. Value: FALSE
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ37Dh_VMq2oR82k.woff2
+[2025-01-25 15:55:19] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 42
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/67950967dd033-OtBai7.tmp
+[2025-01-25 15:55:19] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ37Dh_VMq2oR82k.woff2?simply_static_page=7515
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ37Dh_VMq2oR82k.woff2?simply_static_page=7515
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:103] Filesize: 32760 bytes
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/woff2
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ37Dh_VMq2oR82k.woff2
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/67950967dd033-OtBai7.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ37Dh_VMq2oR82k.woff2
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:19] [class-ss-page.php:119] Checking Content Identical:c154e35af43eb2ecba510c75da5af29cd1905e2a===. Value: FALSE
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ3CDh_VMq2oR82k.woff2
+[2025-01-25 15:55:19] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 42
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/67950967e1324-3V0ERt.tmp
+[2025-01-25 15:55:19] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ3CDh_VMq2oR82k.woff2?simply_static_page=7516
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ3CDh_VMq2oR82k.woff2?simply_static_page=7516
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:103] Filesize: 32808 bytes
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/woff2
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ3CDh_VMq2oR82k.woff2
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/67950967e1324-3V0ERt.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/uploads/fonts/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ3CDh_VMq2oR82k.woff2
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:19] [class-ss-page.php:119] Checking Content Identical:5109143cce0241b0ce8759f1b2e80fb38b99f3a1===. Value: FALSE
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/simply-static/ca27d58036b76ba748c9f78aba39f99e-debug.txt
+[2025-01-25 15:55:19] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 42
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:79] Excludable found: URL: http://localhost/SERDAL/wp-content/uploads/simply-static/ca27d58036b76ba748c9f78aba39f99e-debug.txt
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:89] Skipping URL because it is no-save and no-follow
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/simply-static/temp-files/simply-static-1-1737820515/feed/index.html
+[2025-01-25 15:55:19] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 42
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/67950967ea3cb-EEGOKw.tmp
+[2025-01-25 15:55:19] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/uploads/simply-static/temp-files/simply-static-1-1737820515/feed/index.html?simply_static_page=7518
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/uploads/simply-static/temp-files/simply-static-1-1737820515/feed/index.html?simply_static_page=7518
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:103] Filesize: 339 bytes
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/simply-static/temp-files/simply-static-1-1737820515/feed/index.html
+[2025-01-25 15:55:19] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/67950967ea3cb-EEGOKw.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/uploads/simply-static/temp-files/simply-static-1-1737820515/feed/index.html
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:158] Adding 1 URLs to the queue
+[2025-01-25 15:55:19] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:19] [class-ss-page.php:119] Checking Content Identical:b4bf31e9dae0f6feb16a4805f85f098e1fa7098c===. Value: FALSE
+[2025-01-25 15:55:19] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 0 of 42 pages/files
+[2025-01-25 15:55:20] [class-ss-archive-creation-job.php:212] We're not done with the fetch_urls task yet
+[2025-01-25 15:55:20] [class-ss-archive-creation-job.php:172] Current task: fetch_urls
+[2025-01-25 15:55:20] [class-ss-archive-creation-job.php:182] Performing task: fetch_urls
+[2025-01-25 15:55:20] [class-ss-fetch-urls-task.php:69] Total pages: 73; Pages remaining: 31
+[2025-01-25 15:55:20] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/plugins/makeiteasy-back-to-top/build/front-back-to-top.js
+[2025-01-25 15:55:20] [class-ss-task.php:58] [PAGES STATUS] Remaining:31; Total: 73
+[2025-01-25 15:55:20] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/6795096802071-ndCZpm.tmp
+[2025-01-25 15:55:20] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/plugins/makeiteasy-back-to-top/build/front-back-to-top.js?simply_static_page=7519
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/plugins/makeiteasy-back-to-top/build/front-back-to-top.js?simply_static_page=7519
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:103] Filesize: 1323 bytes
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/makeiteasy-back-to-top/build/front-back-to-top.js
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/6795096802071-ndCZpm.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/plugins/makeiteasy-back-to-top/build/front-back-to-top.js
+[2025-01-25 15:55:20] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:20] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:20] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:20] [class-ss-page.php:119] Checking Content Identical:9f6059339e1066b846d89ad6c267a24e3466ef27===. Value: FALSE
+[2025-01-25 15:55:20] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-includes/js/jquery/jquery.min.js
+[2025-01-25 15:55:20] [class-ss-task.php:58] [PAGES STATUS] Remaining:30; Total: 73
+[2025-01-25 15:55:20] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/6795096805ff3-rUmYYo.tmp
+[2025-01-25 15:55:20] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-includes/js/jquery/jquery.min.js?simply_static_page=7520
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-includes/js/jquery/jquery.min.js?simply_static_page=7520
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:103] Filesize: 87553 bytes
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:233] New filename for static page: /wp-includes/js/jquery/jquery.min.js
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/6795096805ff3-rUmYYo.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-includes/js/jquery/jquery.min.js
+[2025-01-25 15:55:20] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:20] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:20] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:20] [class-ss-page.php:119] Checking Content Identical:79cd3587d565afe290076a8d36c31c305a573d18===. Value: FALSE
+[2025-01-25 15:55:20] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-includes/js/jquery/jquery-migrate.min.js
+[2025-01-25 15:55:20] [class-ss-task.php:58] [PAGES STATUS] Remaining:29; Total: 73
+[2025-01-25 15:55:20] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/6795096816829-0Oj7Rb.tmp
+[2025-01-25 15:55:20] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-includes/js/jquery/jquery-migrate.min.js?simply_static_page=7521
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-includes/js/jquery/jquery-migrate.min.js?simply_static_page=7521
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:103] Filesize: 13577 bytes
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:233] New filename for static page: /wp-includes/js/jquery/jquery-migrate.min.js
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/6795096816829-0Oj7Rb.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-includes/js/jquery/jquery-migrate.min.js
+[2025-01-25 15:55:20] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:20] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:20] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:20] [class-ss-page.php:119] Checking Content Identical:3ad0c10e501ac2a9bfa18f9cd7e700219b378738===. Value: FALSE
+[2025-01-25 15:55:20] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-includes/js/dist/script-modules/block-library/navigation/view.min.js
+[2025-01-25 15:55:20] [class-ss-task.php:58] [PAGES STATUS] Remaining:28; Total: 73
+[2025-01-25 15:55:20] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/67950968244d9-9Zdezj.tmp
+[2025-01-25 15:55:20] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-includes/js/dist/script-modules/block-library/navigation/view.min.js?simply_static_page=7522
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-includes/js/dist/script-modules/block-library/navigation/view.min.js?simply_static_page=7522
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:103] Filesize: 3300 bytes
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:233] New filename for static page: /wp-includes/js/dist/script-modules/block-library/navigation/view.min.js
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/67950968244d9-9Zdezj.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-includes/js/dist/script-modules/block-library/navigation/view.min.js
+[2025-01-25 15:55:20] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:20] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:20] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:20] [class-ss-page.php:119] Checking Content Identical:b27ba805d3b9118edfd523f01fd6e84229d52ffd===. Value: FALSE
+[2025-01-25 15:55:20] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/plugins/otter-blocks/build/animation/frontend.js
+[2025-01-25 15:55:20] [class-ss-task.php:58] [PAGES STATUS] Remaining:27; Total: 73
+[2025-01-25 15:55:20] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/67950968293fc-Oa9V7X.tmp
+[2025-01-25 15:55:20] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/plugins/otter-blocks/build/animation/frontend.js?simply_static_page=7523
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/plugins/otter-blocks/build/animation/frontend.js?simply_static_page=7523
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:103] Filesize: 5003 bytes
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/otter-blocks/build/animation/frontend.js
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/67950968293fc-Oa9V7X.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/plugins/otter-blocks/build/animation/frontend.js
+[2025-01-25 15:55:20] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:20] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:20] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:20] [class-ss-page.php:119] Checking Content Identical:3156e65adc3d5fe2c60f3aa462a6806f7a484071===. Value: FALSE
+[2025-01-25 15:55:20] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/plugins/bb-header-footer/assets/js/bb-header-footer.js
+[2025-01-25 15:55:20] [class-ss-task.php:58] [PAGES STATUS] Remaining:26; Total: 73
+[2025-01-25 15:55:20] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/6795096832284-Dp1MXZ.tmp
+[2025-01-25 15:55:20] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/plugins/bb-header-footer/assets/js/bb-header-footer.js?simply_static_page=7524
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/plugins/bb-header-footer/assets/js/bb-header-footer.js?simply_static_page=7524
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:103] Filesize: 517 bytes
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/bb-header-footer/assets/js/bb-header-footer.js
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/6795096832284-Dp1MXZ.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/plugins/bb-header-footer/assets/js/bb-header-footer.js
+[2025-01-25 15:55:20] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:20] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:20] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:20] [class-ss-page.php:119] Checking Content Identical:17ed148c597359ba0af7b9ee913f11ec0f3ee6da===. Value: FALSE
+[2025-01-25 15:55:20] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/feed/
+[2025-01-25 15:55:20] [class-ss-task.php:58] [PAGES STATUS] Remaining:25; Total: 73
+[2025-01-25 15:55:20] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/67950968368a6-2xR5lK.tmp
+[2025-01-25 15:55:20] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/feed/?simply_static_page=7525
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/feed/?simply_static_page=7525
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:103] Filesize: 1837 bytes
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/rss+xml; charset=UTF-8
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:233] New filename for static page: /feed/index.xml
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/67950968368a6-2xR5lK.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/feed/index.xml
+[2025-01-25 15:55:20] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:20] [class-ss-fetch-urls-task.php:158] Adding 6 URLs to the queue
+[2025-01-25 15:55:20] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:20] [class-ss-page.php:119] Checking Content Identical:7bc754cc7f604875e6a8320518362e6413445f5f===. Value: FALSE
+[2025-01-25 15:55:20] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/comments/feed/
+[2025-01-25 15:55:20] [class-ss-task.php:58] [PAGES STATUS] Remaining:24; Total: 73
+[2025-01-25 15:55:20] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/67950968b5fe6-A7p7Ra.tmp
+[2025-01-25 15:55:20] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/comments/feed/?simply_static_page=7526
+[2025-01-25 15:55:20] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/comments/feed/?simply_static_page=7526
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:103] Filesize: 1639 bytes
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/rss+xml; charset=UTF-8
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:233] New filename for static page: /comments/feed/index.xml
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/67950968b5fe6-A7p7Ra.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/comments/feed/index.xml
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:158] Adding 4 URLs to the queue
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:21] [class-ss-page.php:119] Checking Content Identical:afc57b89fe0f4892f4f18636cd9da6813295d666===. Value: FALSE
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-includes/blocks/navigation/style.min.css
+[2025-01-25 15:55:21] [class-ss-task.php:58] [PAGES STATUS] Remaining:23; Total: 73
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/6795096936810-g29qVM.tmp
+[2025-01-25 15:55:21] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-includes/blocks/navigation/style.min.css?simply_static_page=7527
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-includes/blocks/navigation/style.min.css?simply_static_page=7527
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:103] Filesize: 16384 bytes
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:233] New filename for static page: /wp-includes/blocks/navigation/style.min.css
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/6795096936810-g29qVM.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-includes/blocks/navigation/style.min.css
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:21] [class-ss-page.php:119] Checking Content Identical:da66b61dcc5204277eb7846b9dce55b2e7d58a42===. Value: FALSE
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-includes/blocks/cover/style.min.css
+[2025-01-25 15:55:21] [class-ss-task.php:58] [PAGES STATUS] Remaining:22; Total: 73
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/6795096942418-eZUzUy.tmp
+[2025-01-25 15:55:21] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-includes/blocks/cover/style.min.css?simply_static_page=7528
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-includes/blocks/cover/style.min.css?simply_static_page=7528
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:103] Filesize: 18099 bytes
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:233] New filename for static page: /wp-includes/blocks/cover/style.min.css
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/6795096942418-eZUzUy.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-includes/blocks/cover/style.min.css
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:21] [class-ss-page.php:119] Checking Content Identical:c66e72e25362483017fa1c49bcae6e4087fe47c7===. Value: FALSE
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-includes/blocks/social-links/style.min.css
+[2025-01-25 15:55:21] [class-ss-task.php:58] [PAGES STATUS] Remaining:21; Total: 73
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/679509694d661-rQEHuC.tmp
+[2025-01-25 15:55:21] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-includes/blocks/social-links/style.min.css?simply_static_page=7529
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-includes/blocks/social-links/style.min.css?simply_static_page=7529
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:103] Filesize: 11600 bytes
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:233] New filename for static page: /wp-includes/blocks/social-links/style.min.css
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/679509694d661-rQEHuC.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-includes/blocks/social-links/style.min.css
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:21] [class-ss-page.php:119] Checking Content Identical:31aa11f7c686b08c09618aad559b886161247a72===. Value: FALSE
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/plugins/otter-blocks/build/blocks/advanced-columns/style.css
+[2025-01-25 15:55:21] [class-ss-task.php:58] [PAGES STATUS] Remaining:20; Total: 73
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/6795096959133-f3FDUY.tmp
+[2025-01-25 15:55:21] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/plugins/otter-blocks/build/blocks/advanced-columns/style.css?simply_static_page=7530
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/plugins/otter-blocks/build/blocks/advanced-columns/style.css?simply_static_page=7530
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:103] Filesize: 15517 bytes
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/otter-blocks/build/blocks/advanced-columns/style.css
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/6795096959133-f3FDUY.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/plugins/otter-blocks/build/blocks/advanced-columns/style.css
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:21] [class-ss-page.php:119] Checking Content Identical:5561fda47be51e8cd22bd64031f6fec13a0b03a8===. Value: FALSE
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/plugins/bb-header-footer/assets/css/bb-header-footer.css
+[2025-01-25 15:55:21] [class-ss-task.php:58] [PAGES STATUS] Remaining:19; Total: 73
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/67950969624a0-lZeVNw.tmp
+[2025-01-25 15:55:21] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/plugins/bb-header-footer/assets/css/bb-header-footer.css?simply_static_page=7531
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/plugins/bb-header-footer/assets/css/bb-header-footer.css?simply_static_page=7531
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:103] Filesize: 5898 bytes
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/bb-header-footer/assets/css/bb-header-footer.css
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/67950969624a0-lZeVNw.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/plugins/bb-header-footer/assets/css/bb-header-footer.css
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:21] [class-ss-page.php:119] Checking Content Identical:e6834aebd676abb6c34540529f4a1a53b76b15f2===. Value: FALSE
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/themes/raft/assets/css/build/style.css
+[2025-01-25 15:55:21] [class-ss-task.php:58] [PAGES STATUS] Remaining:18; Total: 73
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/67950969689c7-0pNgDD.tmp
+[2025-01-25 15:55:21] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/themes/raft/assets/css/build/style.css?simply_static_page=7532
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/themes/raft/assets/css/build/style.css?simply_static_page=7532
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:103] Filesize: 6322 bytes
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/raft/assets/css/build/style.css
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/67950969689c7-0pNgDD.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/themes/raft/assets/css/build/style.css
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:21] [class-ss-page.php:119] Checking Content Identical:51bb60f4777c4226e1a8c995f9ef049005439cad===. Value: FALSE
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-json/
+[2025-01-25 15:55:21] [class-ss-task.php:58] [PAGES STATUS] Remaining:17; Total: 73
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:79] Excludable found: URL: http://localhost/SERDAL/wp-json/
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:89] Skipping URL because it is no-save and no-follow
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/xmlrpc.php
+[2025-01-25 15:55:21] [class-ss-task.php:58] [PAGES STATUS] Remaining:16; Total: 73
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:79] Excludable found: URL: http://localhost/SERDAL/xmlrpc.php
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:89] Skipping URL because it is no-save and no-follow
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-includes/js/dist/script-modules/interactivity/index.min.js
+[2025-01-25 15:55:21] [class-ss-task.php:58] [PAGES STATUS] Remaining:15; Total: 73
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/679509697084a-E0y9WH.tmp
+[2025-01-25 15:55:21] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-includes/js/dist/script-modules/interactivity/index.min.js?simply_static_page=7535
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-includes/js/dist/script-modules/interactivity/index.min.js?simply_static_page=7535
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:103] Filesize: 36695 bytes
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:233] New filename for static page: /wp-includes/js/dist/script-modules/interactivity/index.min.js
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/679509697084a-E0y9WH.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-includes/js/dist/script-modules/interactivity/index.min.js
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:21] [class-ss-page.php:119] Checking Content Identical:b8552f14cf91bdfc758994614768737736f34657===. Value: FALSE
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/themes/raft/assets/fonts/readex-pro/ReadexPro-VariableFont_wght.ttf
+[2025-01-25 15:55:21] [class-ss-task.php:58] [PAGES STATUS] Remaining:14; Total: 73
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/679509698ac94-CIdHfU.tmp
+[2025-01-25 15:55:21] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/themes/raft/assets/fonts/readex-pro/ReadexPro-VariableFont_wght.ttf?simply_static_page=7536
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/themes/raft/assets/fonts/readex-pro/ReadexPro-VariableFont_wght.ttf?simply_static_page=7536
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:103] Filesize: 192088 bytes
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/ttf
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/raft/assets/fonts/readex-pro/ReadexPro-VariableFont_wght.ttf
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/679509698ac94-CIdHfU.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/themes/raft/assets/fonts/readex-pro/ReadexPro-VariableFont_wght.ttf
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:21] [class-ss-page.php:119] Checking Content Identical:0a991b2215c6edf8b272ab693814377ef8f4b5e0===. Value: FALSE
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/themes/raft/assets/fonts/source-serif-pro/SourceSerif4Variable-Roman.ttf.woff2
+[2025-01-25 15:55:21] [class-ss-task.php:58] [PAGES STATUS] Remaining:13; Total: 73
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/6795096991efa-xTGE9u.tmp
+[2025-01-25 15:55:21] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/themes/raft/assets/fonts/source-serif-pro/SourceSerif4Variable-Roman.ttf.woff2?simply_static_page=7537
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/themes/raft/assets/fonts/source-serif-pro/SourceSerif4Variable-Roman.ttf.woff2?simply_static_page=7537
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:103] Filesize: 428448 bytes
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/woff2
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/raft/assets/fonts/source-serif-pro/SourceSerif4Variable-Roman.ttf.woff2
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/6795096991efa-xTGE9u.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/themes/raft/assets/fonts/source-serif-pro/SourceSerif4Variable-Roman.ttf.woff2
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:21] [class-ss-page.php:119] Checking Content Identical:b622e44324ea8789789e812cae242e1f483e9811===. Value: FALSE
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/themes/raft/assets/fonts/source-serif-pro/SourceSerif4Variable-Italic.ttf.woff2
+[2025-01-25 15:55:21] [class-ss-task.php:58] [PAGES STATUS] Remaining:12; Total: 73
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/6795096996d71-l3XP7O.tmp
+[2025-01-25 15:55:21] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/themes/raft/assets/fonts/source-serif-pro/SourceSerif4Variable-Italic.ttf.woff2?simply_static_page=7538
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/themes/raft/assets/fonts/source-serif-pro/SourceSerif4Variable-Italic.ttf.woff2?simply_static_page=7538
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:103] Filesize: 346840 bytes
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/woff2
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/raft/assets/fonts/source-serif-pro/SourceSerif4Variable-Italic.ttf.woff2
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/6795096996d71-l3XP7O.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/themes/raft/assets/fonts/source-serif-pro/SourceSerif4Variable-Italic.ttf.woff2
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:21] [class-ss-page.php:119] Checking Content Identical:95c3d13946b16dfb07cfa14629a8ae04cc83323d===. Value: FALSE
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/themes/raft/assets/fonts/figtree/Figtree-VariableFont_wght.ttf
+[2025-01-25 15:55:21] [class-ss-task.php:58] [PAGES STATUS] Remaining:11; Total: 73
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/67950969aa2d2-Cpw5IF.tmp
+[2025-01-25 15:55:21] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/themes/raft/assets/fonts/figtree/Figtree-VariableFont_wght.ttf?simply_static_page=7539
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/themes/raft/assets/fonts/figtree/Figtree-VariableFont_wght.ttf?simply_static_page=7539
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:103] Filesize: 60660 bytes
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/ttf
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/raft/assets/fonts/figtree/Figtree-VariableFont_wght.ttf
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/67950969aa2d2-Cpw5IF.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/themes/raft/assets/fonts/figtree/Figtree-VariableFont_wght.ttf
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:21] [class-ss-page.php:119] Checking Content Identical:363c3a12210a1d097a861c98874294829c19279e===. Value: FALSE
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/themes/raft/assets/fonts/figtree/Figtree-Italic-VariableFont_wght.ttf
+[2025-01-25 15:55:21] [class-ss-task.php:58] [PAGES STATUS] Remaining:10; Total: 73
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/67950969aeb77-Kqrn5v.tmp
+[2025-01-25 15:55:21] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/themes/raft/assets/fonts/figtree/Figtree-Italic-VariableFont_wght.ttf?simply_static_page=7540
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/themes/raft/assets/fonts/figtree/Figtree-Italic-VariableFont_wght.ttf?simply_static_page=7540
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:103] Filesize: 60764 bytes
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/ttf
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/raft/assets/fonts/figtree/Figtree-Italic-VariableFont_wght.ttf
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/67950969aeb77-Kqrn5v.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/themes/raft/assets/fonts/figtree/Figtree-Italic-VariableFont_wght.ttf
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:21] [class-ss-page.php:119] Checking Content Identical:e5d96c307ec6582b55673fc162d76d50dad556df===. Value: FALSE
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/themes/raft/assets/fonts/outfit/Outfit-VariableFont_wght.ttf
+[2025-01-25 15:55:21] [class-ss-task.php:58] [PAGES STATUS] Remaining:9; Total: 73
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/67950969b4276-kwouqi.tmp
+[2025-01-25 15:55:21] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/themes/raft/assets/fonts/outfit/Outfit-VariableFont_wght.ttf?simply_static_page=7541
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/themes/raft/assets/fonts/outfit/Outfit-VariableFont_wght.ttf?simply_static_page=7541
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:103] Filesize: 75856 bytes
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/ttf
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/raft/assets/fonts/outfit/Outfit-VariableFont_wght.ttf
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/67950969b4276-kwouqi.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/themes/raft/assets/fonts/outfit/Outfit-VariableFont_wght.ttf
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:21] [class-ss-page.php:119] Checking Content Identical:c6f27b9debf80ecaf0ac866b0edc25519825730a===. Value: FALSE
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/themes/raft/assets/fonts/spline-sans/SplineSans-VariableFont_wght.ttf
+[2025-01-25 15:55:21] [class-ss-task.php:58] [PAGES STATUS] Remaining:8; Total: 73
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/67950969b8688-5mYEFa.tmp
+[2025-01-25 15:55:21] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/themes/raft/assets/fonts/spline-sans/SplineSans-VariableFont_wght.ttf?simply_static_page=7542
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/themes/raft/assets/fonts/spline-sans/SplineSans-VariableFont_wght.ttf?simply_static_page=7542
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:103] Filesize: 143784 bytes
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/ttf
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/raft/assets/fonts/spline-sans/SplineSans-VariableFont_wght.ttf
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/67950969b8688-5mYEFa.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/themes/raft/assets/fonts/spline-sans/SplineSans-VariableFont_wght.ttf
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:21] [class-ss-page.php:119] Checking Content Identical:d3a17aad2daa9f6da9a7cd9b0a3cb7e8bc6bb153===. Value: FALSE
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/themes/raft/assets/fonts/geologica/Geologica-VariableFont_CRSV,SHRP,slnt,wght.ttf
+[2025-01-25 15:55:21] [class-ss-task.php:58] [PAGES STATUS] Remaining:7; Total: 73
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/67950969bca8e-u3fBRV.tmp
+[2025-01-25 15:55:21] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/themes/raft/assets/fonts/geologica/Geologica-VariableFont_CRSV,SHRP,slnt,wght.ttf?simply_static_page=7543
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/themes/raft/assets/fonts/geologica/Geologica-VariableFont_CRSV,SHRP,slnt,wght.ttf?simply_static_page=7543
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:103] Filesize: 343100 bytes
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/ttf
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/raft/assets/fonts/geologica/Geologica-VariableFont_CRSV,SHRP,slnt,wght.ttf
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/67950969bca8e-u3fBRV.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/themes/raft/assets/fonts/geologica/Geologica-VariableFont_CRSV,SHRP,slnt,wght.ttf
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:21] [class-ss-page.php:119] Checking Content Identical:df8594eeaf3e54021379a962cc9c5fff9b66b879===. Value: FALSE
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/themes/raft/assets/fonts/gloock/Gloock-Regular.ttf
+[2025-01-25 15:55:21] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 73
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/67950969c5717-V96x8Y.tmp
+[2025-01-25 15:55:21] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/themes/raft/assets/fonts/gloock/Gloock-Regular.ttf?simply_static_page=7544
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/themes/raft/assets/fonts/gloock/Gloock-Regular.ttf?simply_static_page=7544
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:103] Filesize: 95156 bytes
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/ttf
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/raft/assets/fonts/gloock/Gloock-Regular.ttf
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/67950969c5717-V96x8Y.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/themes/raft/assets/fonts/gloock/Gloock-Regular.ttf
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:21] [class-ss-page.php:119] Checking Content Identical:8b59592f9a9d7efbebb9255fc217523b186095c9===. Value: FALSE
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/themes/raft/assets/fonts/spline-sans-mono/SplineSansMono-VariableFont_wght.ttf
+[2025-01-25 15:55:21] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 73
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/67950969cc951-EXfSTR.tmp
+[2025-01-25 15:55:21] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/themes/raft/assets/fonts/spline-sans-mono/SplineSansMono-VariableFont_wght.ttf?simply_static_page=7545
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/themes/raft/assets/fonts/spline-sans-mono/SplineSansMono-VariableFont_wght.ttf?simply_static_page=7545
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:103] Filesize: 116244 bytes
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/ttf
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/raft/assets/fonts/spline-sans-mono/SplineSansMono-VariableFont_wght.ttf
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/67950969cc951-EXfSTR.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/themes/raft/assets/fonts/spline-sans-mono/SplineSansMono-VariableFont_wght.ttf
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:21] [class-ss-page.php:119] Checking Content Identical:624a816c8f26954b0d440534760d2c781a7e155e===. Value: FALSE
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/themes/raft/assets/fonts/spline-sans-mono/SplineSansMono-Italic-VariableFont_wght.ttf
+[2025-01-25 15:55:21] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 73
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/67950969d3c53-G42E6I.tmp
+[2025-01-25 15:55:21] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/themes/raft/assets/fonts/spline-sans-mono/SplineSansMono-Italic-VariableFont_wght.ttf?simply_static_page=7546
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/themes/raft/assets/fonts/spline-sans-mono/SplineSansMono-Italic-VariableFont_wght.ttf?simply_static_page=7546
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:103] Filesize: 127276 bytes
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/ttf
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/raft/assets/fonts/spline-sans-mono/SplineSansMono-Italic-VariableFont_wght.ttf
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/67950969d3c53-G42E6I.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/themes/raft/assets/fonts/spline-sans-mono/SplineSansMono-Italic-VariableFont_wght.ttf
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:21] [class-ss-page.php:119] Checking Content Identical:0815c4e3645360de701b411e6c6ddac9b654cbbb===. Value: FALSE
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/themes/raft/assets/fonts/lora/Lora-VariableFont_wght.ttf
+[2025-01-25 15:55:21] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 73
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/67950969d9919-WuWiNj.tmp
+[2025-01-25 15:55:21] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/themes/raft/assets/fonts/lora/Lora-VariableFont_wght.ttf?simply_static_page=7547
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/themes/raft/assets/fonts/lora/Lora-VariableFont_wght.ttf?simply_static_page=7547
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:103] Filesize: 212004 bytes
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/ttf
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/raft/assets/fonts/lora/Lora-VariableFont_wght.ttf
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/67950969d9919-WuWiNj.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/themes/raft/assets/fonts/lora/Lora-VariableFont_wght.ttf
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:21] [class-ss-page.php:119] Checking Content Identical:a07008f1ec453e882c5d61483707ebdf3fd7b72c===. Value: FALSE
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/themes/raft/assets/fonts/lora/Lora-Italic-VariableFont_wght.ttf
+[2025-01-25 15:55:21] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 73
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/67950969dfb72-uoW8OD.tmp
+[2025-01-25 15:55:21] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/themes/raft/assets/fonts/lora/Lora-Italic-VariableFont_wght.ttf?simply_static_page=7548
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/themes/raft/assets/fonts/lora/Lora-Italic-VariableFont_wght.ttf?simply_static_page=7548
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:103] Filesize: 220096 bytes
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/ttf
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/raft/assets/fonts/lora/Lora-Italic-VariableFont_wght.ttf
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/67950969dfb72-uoW8OD.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/themes/raft/assets/fonts/lora/Lora-Italic-VariableFont_wght.ttf
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:21] [class-ss-page.php:119] Checking Content Identical:732e917787efe8211bb910767d08c1f2c598acbd===. Value: FALSE
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/uploads/simply-static/temp-files/simply-static-1-1737820515/feed/index.xml
+[2025-01-25 15:55:21] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 73
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/67950969ea2cc-BSbNtp.tmp
+[2025-01-25 15:55:21] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/uploads/simply-static/temp-files/simply-static-1-1737820515/feed/index.xml?simply_static_page=7549
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/uploads/simply-static/temp-files/simply-static-1-1737820515/feed/index.xml?simply_static_page=7549
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:103] Filesize: 1917 bytes
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/xml
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/simply-static/temp-files/simply-static-1-1737820515/feed/index.xml
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/67950969ea2cc-BSbNtp.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/uploads/simply-static/temp-files/simply-static-1-1737820515/feed/index.xml
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:21] [class-ss-page.php:119] Checking Content Identical:7bc754cc7f604875e6a8320518362e6413445f5f===. Value: FALSE
+[2025-01-25 15:55:21] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 42 of 73 pages/files
+[2025-01-25 15:55:21] [class-ss-archive-creation-job.php:212] We're not done with the fetch_urls task yet
+[2025-01-25 15:55:21] [class-ss-archive-creation-job.php:172] Current task: fetch_urls
+[2025-01-25 15:55:21] [class-ss-archive-creation-job.php:182] Performing task: fetch_urls
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:69] Total pages: 76; Pages remaining: 3
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL
+[2025-01-25 15:55:21] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 76
+[2025-01-25 15:55:21] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/67950969f07de-do5f2a.tmp
+[2025-01-25 15:55:21] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL?simply_static_page=7550
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL?simply_static_page=7550
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:103] Filesize: 355 bytes
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:119] http_status_code: 301 | content_type: text/html; charset=iso-8859-1
+[2025-01-25 15:55:21] [class-ss-url-fetcher.php:147] We weren't able to establish a filename; deleting temp file
+[2025-01-25 15:55:22] [class-ss-fetch-urls-task.php:203] redirect_url: http://localhost/SERDAL/
+[2025-01-25 15:55:22] [class-ss-fetch-urls-task.php:212] This is a redirect to a trailing slashed version of the same page; adding new URL to the queue
+[2025-01-25 15:55:22] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/hello-world/
+[2025-01-25 15:55:22] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 76
+[2025-01-25 15:55:22] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:22] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/6795096a0381c-rTL0kv.tmp
+[2025-01-25 15:55:22] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/hello-world/?simply_static_page=7551
+[2025-01-25 15:55:22] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/hello-world/?simply_static_page=7551
+[2025-01-25 15:55:22] [class-ss-url-fetcher.php:103] Filesize: 68774 bytes
+[2025-01-25 15:55:22] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html; charset=UTF-8
+[2025-01-25 15:55:22] [class-ss-url-fetcher.php:233] New filename for static page: /hello-world/index.html
+[2025-01-25 15:55:22] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/6795096a0381c-rTL0kv.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/hello-world/index.html
+[2025-01-25 15:55:22] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:23] [class-ss-fetch-urls-task.php:158] Adding 44 URLs to the queue
+[2025-01-25 15:55:23] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:23] [class-ss-page.php:119] Checking Content Identical:a60fb9310f454f623f047f031b043574937a28f2===. Value: FALSE
+[2025-01-25 15:55:23] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/hello-world/feed/
+[2025-01-25 15:55:23] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 76
+[2025-01-25 15:55:23] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:23] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/6795096b67cf4-yFJS14.tmp
+[2025-01-25 15:55:23] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/hello-world/feed/?simply_static_page=7552
+[2025-01-25 15:55:23] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/hello-world/feed/?simply_static_page=7552
+[2025-01-25 15:55:23] [class-ss-url-fetcher.php:103] Filesize: 1638 bytes
+[2025-01-25 15:55:23] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/rss+xml; charset=UTF-8
+[2025-01-25 15:55:23] [class-ss-url-fetcher.php:233] New filename for static page: /hello-world/feed/index.xml
+[2025-01-25 15:55:23] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/6795096b67cf4-yFJS14.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/hello-world/feed/index.xml
+[2025-01-25 15:55:23] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:23] [class-ss-fetch-urls-task.php:158] Adding 3 URLs to the queue
+[2025-01-25 15:55:23] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:23] [class-ss-page.php:119] Checking Content Identical:9f2266ecb3f543be8ff55e6df99a81d10566d75d===. Value: FALSE
+[2025-01-25 15:55:23] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 73 of 76 pages/files
+[2025-01-25 15:55:23] [class-ss-archive-creation-job.php:212] We're not done with the fetch_urls task yet
+[2025-01-25 15:55:23] [class-ss-archive-creation-job.php:172] Current task: fetch_urls
+[2025-01-25 15:55:23] [class-ss-archive-creation-job.php:182] Performing task: fetch_urls
+[2025-01-25 15:55:23] [class-ss-fetch-urls-task.php:69] Total pages: 80; Pages remaining: 4
+[2025-01-25 15:55:23] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/category/uncategorized/
+[2025-01-25 15:55:23] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 80
+[2025-01-25 15:55:23] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:23] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/6795096bcff05-sfPQjS.tmp
+[2025-01-25 15:55:23] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/category/uncategorized/?simply_static_page=7553
+[2025-01-25 15:55:23] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/category/uncategorized/?simply_static_page=7553
+[2025-01-25 15:55:24] [class-ss-url-fetcher.php:103] Filesize: 70911 bytes
+[2025-01-25 15:55:24] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html; charset=UTF-8
+[2025-01-25 15:55:24] [class-ss-url-fetcher.php:233] New filename for static page: /category/uncategorized/index.html
+[2025-01-25 15:55:24] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/6795096bcff05-sfPQjS.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/category/uncategorized/index.html
+[2025-01-25 15:55:24] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:24] [class-ss-fetch-urls-task.php:158] Adding 41 URLs to the queue
+[2025-01-25 15:55:24] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:25] [class-ss-page.php:119] Checking Content Identical:941911ab384a65e6e46347dc3c24e318db13ddb7===. Value: FALSE
+[2025-01-25 15:55:25] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-content/themes/raft/assets/img/shape-08.svg
+[2025-01-25 15:55:25] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 80
+[2025-01-25 15:55:25] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:25] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/6795096d402d7-MxaKZs.tmp
+[2025-01-25 15:55:25] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/wp-content/themes/raft/assets/img/shape-08.svg?simply_static_page=7554
+[2025-01-25 15:55:25] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/wp-content/themes/raft/assets/img/shape-08.svg?simply_static_page=7554
+[2025-01-25 15:55:25] [class-ss-url-fetcher.php:103] Filesize: 18132 bytes
+[2025-01-25 15:55:25] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/svg+xml
+[2025-01-25 15:55:25] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/raft/assets/img/shape-08.svg
+[2025-01-25 15:55:25] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/6795096d402d7-MxaKZs.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/wp-content/themes/raft/assets/img/shape-08.svg
+[2025-01-25 15:55:25] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:25] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-01-25 15:55:25] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:25] [class-ss-page.php:119] Checking Content Identical:9ac7718ee62b7b19fe5d2ff632c17c92b4ce5f8e===. Value: FALSE
+[2025-01-25 15:55:25] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-json/wp/v2/posts/1
+[2025-01-25 15:55:25] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 80
+[2025-01-25 15:55:25] [class-ss-fetch-urls-task.php:79] Excludable found: URL: http://localhost/SERDAL/wp-json/wp/v2/posts/1
+[2025-01-25 15:55:25] [class-ss-fetch-urls-task.php:89] Skipping URL because it is no-save and no-follow
+[2025-01-25 15:55:25] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-json/oembed/1.0/embed
+[2025-01-25 15:55:25] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 80
+[2025-01-25 15:55:25] [class-ss-fetch-urls-task.php:79] Excludable found: URL: http://localhost/SERDAL/wp-json/oembed/1.0/embed
+[2025-01-25 15:55:25] [class-ss-fetch-urls-task.php:89] Skipping URL because it is no-save and no-follow
+[2025-01-25 15:55:25] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 76 of 80 pages/files
+[2025-01-25 15:55:25] [class-ss-archive-creation-job.php:212] We're not done with the fetch_urls task yet
+[2025-01-25 15:55:25] [class-ss-archive-creation-job.php:172] Current task: fetch_urls
+[2025-01-25 15:55:25] [class-ss-archive-creation-job.php:182] Performing task: fetch_urls
+[2025-01-25 15:55:25] [class-ss-fetch-urls-task.php:69] Total pages: 82; Pages remaining: 2
+[2025-01-25 15:55:25] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/category/uncategorized/feed/
+[2025-01-25 15:55:25] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 82
+[2025-01-25 15:55:25] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-01-25 15:55:25] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/6795096d509d7-6iUzps.tmp
+[2025-01-25 15:55:25] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/category/uncategorized/feed/?simply_static_page=7557
+[2025-01-25 15:55:25] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/category/uncategorized/feed/?simply_static_page=7557
+[2025-01-25 15:55:25] [class-ss-url-fetcher.php:103] Filesize: 1904 bytes
+[2025-01-25 15:55:25] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/rss+xml; charset=UTF-8
+[2025-01-25 15:55:25] [class-ss-url-fetcher.php:233] New filename for static page: /category/uncategorized/feed/index.xml
+[2025-01-25 15:55:25] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/6795096d509d7-6iUzps.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515/category/uncategorized/feed/index.xml
+[2025-01-25 15:55:25] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-01-25 15:55:25] [class-ss-fetch-urls-task.php:158] Adding 6 URLs to the queue
+[2025-01-25 15:55:25] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-01-25 15:55:25] [class-ss-page.php:119] Checking Content Identical:080e4deaca609681ad1121ce1a03cd10bc341bc8===. Value: FALSE
+[2025-01-25 15:55:25] [class-ss-fetch-urls-task.php:72] URL: http://localhost/SERDAL/wp-json/wp/v2/categories/1
+[2025-01-25 15:55:25] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 82
+[2025-01-25 15:55:25] [class-ss-fetch-urls-task.php:79] Excludable found: URL: http://localhost/SERDAL/wp-json/wp/v2/categories/1
+[2025-01-25 15:55:25] [class-ss-fetch-urls-task.php:89] Skipping URL because it is no-save and no-follow
+[2025-01-25 15:55:25] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 80 of 82 pages/files
+[2025-01-25 15:55:25] [class-ss-archive-creation-job.php:212] We're not done with the fetch_urls task yet
+[2025-01-25 15:55:25] [class-ss-archive-creation-job.php:172] Current task: fetch_urls
+[2025-01-25 15:55:25] [class-ss-archive-creation-job.php:182] Performing task: fetch_urls
+[2025-01-25 15:55:25] [class-ss-fetch-urls-task.php:69] Total pages: 82; Pages remaining: 0
+[2025-01-25 15:55:25] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 82 of 82 pages/files
+[2025-01-25 15:55:25] [class-ss-archive-creation-job.php:204] We've found our next task: generate_404
+[2025-01-25 15:55:25] [class-ss-archive-creation-job.php:172] Current task: generate_404
+[2025-01-25 15:55:25] [class-ss-archive-creation-job.php:182] Performing task: generate_404
+[2025-01-25 15:55:25] [class-ss-task.php:44] Status message: [generate_404] Generating 404 Page.
+[2025-01-25 15:55:25] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ACCOUN~1\AppData\Local\Temp/6795096dc21a7-cPBd30.tmp
+[2025-01-25 15:55:25] [class-ss-page-handler.php:38] URL Prepared:http://localhost/SERDAL/1737820526?simply_static_page=0
+[2025-01-25 15:55:25] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/SERDAL/1737820526?simply_static_page=0
+[2025-01-25 15:55:26] [class-ss-url-fetcher.php:103] Filesize: 60079 bytes
+[2025-01-25 15:55:26] [class-ss-url-fetcher.php:119] http_status_code: 404 | content_type: text/html; charset=UTF-8
+[2025-01-25 15:55:26] [class-ss-url-fetcher.php:233] New filename for static page: 404/index.html
+[2025-01-25 15:55:26] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ACCOUN~1\AppData\Local\Temp/6795096dc21a7-cPBd30.tmp to C:\xampp\htdocs\SERDAL/wp-content/uploads\simply-static\temp-files/simply-static-1-1737820515\404/index.html
+[2025-01-25 15:55:26] [class-ss-generate-404-task.php:119] Replacing URLs in the static file
+[2025-01-25 15:55:26] [class-ss-generate-404-task.php:125] We're saving this URL; keeping the static file
+[2025-01-25 15:55:27] [class-ss-page.php:119] Checking Content Identical:882ec8d33b6129f9c6d9a408022dd089bdcfb481===. Value: FALSE
+[2025-01-25 15:55:27] [class-ss-task.php:44] Status message: [generate_404] 404 Page generated
+[2025-01-25 15:55:27] [class-ss-archive-creation-job.php:204] We've found our next task: create_zip_archive
+[2025-01-25 15:55:27] [class-ss-archive-creation-job.php:172] Current task: create_zip_archive
+[2025-01-25 15:55:27] [class-ss-archive-creation-job.php:182] Performing task: create_zip_archive
+[2025-01-25 15:55:27] [class-ss-create-zip-archive.php:78] Fetching list of files to include in zip
+[2025-01-25 15:55:27] [class-ss-create-zip-archive.php:87] Creating zip archive
+[2025-01-25 15:55:27] [class-ss-task.php:44] Status message: [create_zip_archive] ZIP archive created:  <a href="http://localhost/SERDAL/wp-content/uploads/simply-static/temp-files/simply-static-1-1737820515.zip">Click here to download</a>
+[2025-01-25 15:55:27] [class-ss-archive-creation-job.php:204] We've found our next task: wrapup
+[2025-01-25 15:55:27] [class-ss-archive-creation-job.php:172] Current task: wrapup
+[2025-01-25 15:55:27] [class-ss-archive-creation-job.php:182] Performing task: wrapup
+[2025-01-25 15:55:27] [class-ss-wrapup-task.php:22] Deleting temporary files
+[2025-01-25 15:55:27] [class-ss-task.php:44] Status message: [wrapup] Wrapping up
+[2025-01-25 15:55:27] [class-ss-archive-creation-job.php:199] This task is done and there are no more tasks, time to complete the job
+[2025-01-25 15:55:27] [class-ss-archive-creation-job.php:244] Completing the job
+[2025-01-25 15:55:27] [class-ss-archive-creation-job.php:371] Status message: [done] Done! Finished in 00:00:12

@@ -1,0 +1,303 @@
+# Copyright (C) 2024 Themegrove
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: InnovateGrove 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/innovategrove\n"
+"POT-Creation-Date: 2024-12-28 14:17:12+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: functions.php:32
+msgid "InnovateGrove"
+msgstr ""
+
+#: patterns/404.php:14
+msgid "404: Page Not Disco-vered"
+msgstr ""
+
+#: patterns/404.php:18
+msgid "Looks like the dance floor is empty here! This page has done a disappearing act. Head back to the main stage by clicking the navigation links, and let's keep the party going!"
+msgstr ""
+
+#: patterns/404.php:25
+msgid "Go to home page"
+msgstr ""
+
+#: patterns/about-us-two.php:16
+msgid "Where Innovation Meets Heart"
+msgstr ""
+
+#: patterns/about-us-two.php:20
+msgid "Nec vitae class etiam porttitor volutpat torquent vehicula quisque auctor purus mi ante lobortis quam adipiscing ipsum vulputate euismod ut ornare morbi in facilisis ultrices integer fermentum magna placerat pede amet"
+msgstr ""
+
+#: patterns/about-us-two.php:24
+msgid "Aliquam vehicula porta quam hac tincidunt natoque malesuada facilisis netus ac etiam laoreet enim neque"
+msgstr ""
+
+#: patterns/about-us-two.php:29 patterns/about-us.php:26
+msgid "About Us"
+msgstr ""
+
+#: patterns/about-us.php:17
+msgid "Driving Innovation, Empowering Growth"
+msgstr ""
+
+#: patterns/about-us.php:21 patterns/banner.php:23
+msgid "Mattis pellentesque ex phasellus amet nulla aliquam commodo eu posuere in sit efficitur per libero consectetuer id elit neque condimentum parturient Adipiscing ipsum netus donec erat vivamus congue eget fermentum"
+msgstr ""
+
+#: patterns/archive-product.php:55
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: patterns/archive.php:45 patterns/blog-left.php:52 patterns/blog-right.php:48
+#: patterns/post.php:46 patterns/search.php:46
+msgid "No posts found"
+msgstr ""
+
+#: patterns/articles.php:13
+msgid "Insights and Ideas to Inspire Your Growth"
+msgstr ""
+
+#: patterns/banner.php:15
+msgid "Empowering Your Success"
+msgstr ""
+
+#: patterns/banner.php:19
+msgid "Transform Your Business with Innovative Solutions"
+msgstr ""
+
+#: patterns/banner.php:28
+msgid "Learn More"
+msgstr ""
+
+#: patterns/banner.php:32
+msgid "Get Started"
+msgstr ""
+
+#: patterns/blog-left.php:10
+msgid "News Left Sidebar"
+msgstr ""
+
+#: patterns/blog-right.php:10
+msgid "News Right Sidebar"
+msgstr ""
+
+#: patterns/cart.php:18
+msgid "You may be interested in…"
+msgstr ""
+
+#: patterns/cart.php:76
+msgid "Your cart is currently empty!"
+msgstr ""
+
+#: patterns/cart.php:84
+msgid "New in store"
+msgstr ""
+
+#: patterns/cta.php:15
+msgid "Let’s Build Something Amazing Together"
+msgstr ""
+
+#: patterns/cta.php:19
+msgid "Consectetur dolor vehicula primis suspendisse leo nec interdum turpis sapien posuere porttitor vulputate fusce mauris rhoncus si cursus placerat velit fames"
+msgstr ""
+
+#: patterns/cta.php:24 patterns/services-two.php:35
+#: patterns/services-two.php:53 patterns/services-two.php:71
+#: patterns/services-two.php:91 patterns/services-two.php:109
+#: patterns/services-two.php:127 patterns/services.php:27
+#: patterns/services.php:45 patterns/services.php:63
+msgid "get started"
+msgstr ""
+
+#: patterns/faq.php:13
+msgid "Help"
+msgstr ""
+
+#: patterns/faq.php:13
+msgid "Guidance"
+msgstr ""
+
+#: patterns/faq.php:17
+msgid "Answers to Common Questions"
+msgstr ""
+
+#: patterns/faq.php:22
+msgid "Venenatis himenaeos facilisis lobortis cursus fermentum eget sapien"
+msgstr ""
+
+#: patterns/faq.php:23 patterns/faq.php:29 patterns/faq.php:35
+#: patterns/faq.php:41 patterns/faq.php:47
+msgid "Ridiculus neque gravida nisl interdum vitae facilisis hac augue mi. Parturient etiam nam suspendisse hac natoque malesuada tempus himenaeos porttitor."
+msgstr ""
+
+#: patterns/faq.php:28
+msgid "Quisque tristique per inceptos magnis nisi taciti pretium"
+msgstr ""
+
+#: patterns/faq.php:34
+msgid "Laculis nibh felis tellus orci penatibus maecenas eleifend"
+msgstr ""
+
+#: patterns/faq.php:40
+msgid "Suscipit lacinia lectus primis congue pulvinar dis enim"
+msgstr ""
+
+#: patterns/faq.php:46
+msgid "Eleifend parturient facilisi primis turpis lacinia quisque ullamcorper"
+msgstr ""
+
+#: patterns/footer.php:17
+msgid "Litora donec vitae himenaeos consectetur leo nec dapibus morbi sollicitudin neque vulputate condimentum eros est egestas senectus nunc pellentesque"
+msgstr ""
+
+#: patterns/footer.php:23 patterns/header.php:18
+msgid "Contact Us"
+msgstr ""
+
+#: patterns/footer.php:28
+msgid "example@example.com"
+msgstr ""
+
+#: patterns/footer.php:32
+msgid "+088 (256) 645-52-288"
+msgstr ""
+
+#: patterns/footer.php:36
+msgid "455 West Orchard Street, Kings Mountain"
+msgstr ""
+
+#: patterns/footer.php:43
+msgid "Follow Us"
+msgstr ""
+
+#: patterns/footer.php:62
+msgid "Developed By"
+msgstr ""
+
+#: patterns/footer.php:62
+msgid "Themegrove.com"
+msgstr ""
+
+#: patterns/post.php:10
+msgid "News"
+msgstr ""
+
+#: patterns/services-two.php:15
+msgid "Our Expertise"
+msgstr ""
+
+#: patterns/services-two.php:19
+msgid "Empowering Growth, Delivering Solutions"
+msgstr ""
+
+#: patterns/services-two.php:26 patterns/services.php:18
+msgid "Innovation"
+msgstr ""
+
+#: patterns/services-two.php:30 patterns/services-two.php:48
+#: patterns/services-two.php:66 patterns/services-two.php:86
+#: patterns/services-two.php:104 patterns/services-two.php:122
+#: patterns/services.php:22 patterns/services.php:40 patterns/services.php:58
+msgid "Turpis elit facilisi eleifend consequat ante rutrum vehicula curae bibendum litora eros fermentum in orci torquent dui eget cursus sagittis montes"
+msgstr ""
+
+#: patterns/services-two.php:44
+msgid "Strategy"
+msgstr ""
+
+#: patterns/services-two.php:62 patterns/services.php:54
+msgid "Solutions"
+msgstr ""
+
+#: patterns/services-two.php:82
+msgid "Growth"
+msgstr ""
+
+#: patterns/services-two.php:100
+msgid "Empowerment"
+msgstr ""
+
+#: patterns/services-two.php:118
+msgid "Insights"
+msgstr ""
+
+#: patterns/sidebar.php:15
+msgid "Latest Posts"
+msgstr ""
+
+#: patterns/sidebar.php:23
+msgid "Categories"
+msgstr ""
+
+#: patterns/sidebar.php:31
+msgid "Tags"
+msgstr ""
+
+#: patterns/single-product.php:60
+msgid "Related Products"
+msgstr ""
+
+#: patterns/team.php:13
+msgid "Meet Our Team"
+msgstr ""
+
+#: patterns/team.php:17
+msgid "Experts Driving Your Success"
+msgstr ""
+
+#: patterns/team.php:28 patterns/testimonials.php:34
+#: patterns/testimonials.php:58 patterns/testimonials.php:82
+msgid "Sarah Doe"
+msgstr ""
+
+#: patterns/team.php:32 patterns/team.php:46 patterns/team.php:60
+msgid "Manager"
+msgstr ""
+
+#: patterns/team.php:42
+msgid "Andrew Harrison"
+msgstr ""
+
+#: patterns/team.php:56
+msgid "Michael Harris"
+msgstr ""
+
+#: patterns/testimonials.php:13
+msgid "What Our Clients Say"
+msgstr ""
+
+#: patterns/testimonials.php:17
+msgid "Real Stories, Real Success"
+msgstr ""
+
+#: patterns/testimonials.php:24 patterns/testimonials.php:48
+#: patterns/testimonials.php:72
+msgid "Nam ut lorem et torquent sapien lectus consectetuer finibus lacinia commodo iaculis"
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "InnovateGrove"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://themegrove.com/products/consultinggrove/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Welcome to InnovateGrove, the ultimate WordPress Full Site Editing theme crafted for businesses, consulting firms, and SEO agencies aiming to elevate their online presence. Optimized for top-tier SEO and fully compatible with both Gutenberg and WooCommerce, InnovateGrove empowers you to build a vibrant, growth-oriented website with ease. Its block-based customization and seamless integration with Contact Form 7 offer unmatched flexibility, allowing you to showcase your services, engage clients, and expand your reach effortlessly. Experience the perfect blend of style and performance with InnovateGrove—your gateway to digital success. Demo: https://demos.themegrove.com/innovategrove/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Themegrove"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themegrove.com/"
+msgstr ""
